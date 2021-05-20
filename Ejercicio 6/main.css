@@ -1,0 +1,27 @@
+h1, h2, h3, h4 {
+    margin:0
+}
+.titulo {
+    padding: 15px;
+    color: white;
+    background-color:darkslateblue;  
+}
+.section1 {
+    padding: 15px;
+    background-color:lightgrey;
+}
+.section2 {    
+    background-color: grey;
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+h3, h4{
+    padding-left: 25px;
+}
+footer {
+    padding: 15px;
+    background-color:darkslateblue;
+    color: white;
+    text-align: center;
+}
